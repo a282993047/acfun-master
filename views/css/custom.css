@@ -1,0 +1,72 @@
+.slide-title1 {
+	margin-bottom:70px;
+}
+
+.slide-title2 {
+	font-family: 黑体;
+	color:black;
+	margin-bottom:70px;
+}
+
+.slide-msg2 {
+	font-family: 黑体;
+	color: black;
+}
+
+.navbar-right {
+	margin-right:50px!important;
+}
+
+.info-head{
+	padding-bottom: 20px;
+}
+
+.info-body{
+	padding-left: 60px;
+}
+
+#info-name {
+	font-size: 30px;
+}
+
+#info-depart {
+	font-size: 20px;
+}
+
+.courseid {
+	display: none;
+}
+
+.cname {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.place {
+	text-decoration: underline;
+	margin-right: 30px;
+}
+
+.courseinfo{
+	line-height: 30px;
+	padding: 10px 10px 10px 10px;
+}
+
+.deadline {
+	margin-left: 10%;
+	font-weight: bold;
+}
+
+.btn-unavailable {
+	display: none;
+}
+
+.loading-img {
+	display: none;
+	height: 25px;
+	margin-right: 20px;
+}
+
+.course-info {
+	padding: 20px 40px 20px 40px;
+}
